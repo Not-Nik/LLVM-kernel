@@ -1,5 +1,5 @@
 # LLVM-kernel
-A hello world kernel, written in LLVM ir
+A hello world kernel, written in LLVM IR
 
 ## Why
 This kernel was inspired by an [article by Marek](https://idea.popcount.org/2013-07-24-ir-is-better-than-assembly/).
